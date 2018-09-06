@@ -3,6 +3,6 @@
 
 int main()
 {
-	char str[100]="krishna";
+	char str[50]="krishna";
 	printf("Reversed string is %s\n"strrev(str));
 }
