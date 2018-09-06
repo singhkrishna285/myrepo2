@@ -4,5 +4,6 @@
 int main()
 {
 	char str[50]="krishna";
-	printf("Reversed string is %s\n"strrev(str));
+	printf("original string is %s\n",str);
+	printf("Reversed string is %s\n",strrev(str));
 }
